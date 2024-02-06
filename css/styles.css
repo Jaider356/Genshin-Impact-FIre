@@ -9,3 +9,9 @@
 .header-space {
   padding-top: 140px;
 }
+.menu-principal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
